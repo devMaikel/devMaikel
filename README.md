@@ -1,6 +1,6 @@
 ### Olá !! 👋
 
-👨‍💻 Estudante de Desenvolvimento Full Stack
+👨‍💻 Estudante de Desenvolvimento Web Full Stack
 
 🌱 Estudando atualmente Docker, SQL, Node.js, TypeScript, SOLID, MongoDB...
 
