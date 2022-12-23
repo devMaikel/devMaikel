@@ -1,6 +1,6 @@
-👨‍💻 Estudante de Desenvolvimento Web Full Stack
+👨‍💻 Desenvolvedor Web Full Stack
 
-🌱 Estudando atualmente Docker, SQL, Node.js, TypeScript, SOLID, MongoDB...
+🌱 Tecnologias ReactJS, Javascript, HTML, CSS, MYSQL, NoSQL, MongoDB, Node.js, TypeScript, Princípios SOLID, Arquitetura MSC, Docker...
 
 🔌 Em transição de carreira
 
