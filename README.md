@@ -4,12 +4,4 @@
 
 🔌 Em transição de carreira
 
-<!-- 📩 email: maikelmysilvestre@gmail.com -->
-
-Contato:
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/maikelmy/])]([https://www.linkedin.com/in/maikelmy/]) https://www.linkedin.com/in/maikelmy/
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=[mailto:maikelmysilvestre@gmail.com])]([mailto:maikelmysilvestre@gmail.com]) maikelmysilvestre@gmail.com
-
-<a href="[[Link perfil no LinkedIn](https://www.linkedin.com/in/maikelmy/)]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+📩 Email / LinkedIn: maikelmysilvestre@gmail.com / https://www.linkedin.com/in/maikelmy/
