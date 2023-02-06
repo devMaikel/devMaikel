@@ -1,6 +1,6 @@
 👨‍💻 Desenvolvedor Web Full Stack
 
-🌱 Tecnologias: Javascript, HTML5, CSS, ReactJS, Redux, MYSQL, NoSQL, MongoDB, Node.js, TypeScript, Princípios SOLID, Arquitetura MSC, Clean Code, Docker...
+🌱 Tecnologias: Javascript, HTML5, CSS, ReactJS, Redux, MYSQL, NoSQL, MongoDB, Node.js, TypeScript, NestJS, Princípios SOLID, Arquitetura MSC, Clean Code, Docker...
 
 🔌 Em transição de carreira
 
