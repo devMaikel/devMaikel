@@ -1,6 +1,6 @@
 👨‍💻 Desenvolvedor Web Full Stack
 
-🌱 Tecnologias mais dominadas: Javascript, HTML5, CSS, ReactJS, React Native, NextJS, MYSQL, NoSQL, MongoDB, Node.js, TypeScript, NestJS, Prisma, Princípios SOLID, Arquitetura MSC, Clean Code, Docker...
+🌱 Tecnologias: Javascript, HTML5, CSS, ReactJS, React Native, NextJS, MYSQL, NoSQL, MongoDB, Node.js, TypeScript, NestJS, Prisma, Princípios SOLID, Arquitetura MSC, Clean Code, Docker...
 
 📩 Contato 📩
 
